@@ -1,0 +1,64 @@
+/* Basic CSS resets -- leveling slight inconsistencies in browsers */
+html, body 
+
+.center {
+	margin:20px;
+	padding:10px;
+	height:30%;
+    background-color: darkolivegreen;
+border: 3px solid red;
+}
+
+
+
+html {
+		/* Standard text-settings below */
+	font-size: 2em;
+    line-height: 1.7em;
+}
+
+
+body {
+  
+  color: orangered;
+  font-family: "Lucida Console", "Courier New", monospace;
+
+}
+
+
+header 
+h1 {
+  background-color: darkseagreen;
+  color: Red;
+  font-family: "Impact", sans-serif;
+  font-size: 50px; 
+}
+
+
+footer 
+h2 {
+  background-color: darkseagreen;
+  color: Red;
+  font-family: "Impact", sans-serif;
+  font-size: 25px;
+}
+
+
+
+
+
+
+div {
+  background-color: green;
+  color: orangered;
+  font-family: "Lucida Console", "Courier New", monospace;
+
+}
+
+div#container {
+	
+}
+
+
+
+
